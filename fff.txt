@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 abdessamad souilem 
 YassineAzedine
 elainaoui 
 hamza
+=======
+1
+2
+3
+4
+>>>>>>> 53d0d0e62c7dceded2043e9eb18ce24ffd073501
